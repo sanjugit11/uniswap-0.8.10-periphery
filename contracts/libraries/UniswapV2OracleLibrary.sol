@@ -1,4 +1,5 @@
-pragma solidity >=0.5.0;
+//SPDX-License-Identifier: UNLICENSED
+pragma solidity >=0.8.7;
 
 import '@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol';
 import '@uniswap/lib/contracts/libraries/FixedPoint.sol';
